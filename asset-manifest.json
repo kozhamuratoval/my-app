@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kozhamuratoval/my-app/static/css/main.4515ff85.css",
+    "main.js": "/kozhamuratoval/my-app/static/js/main.3ab26965.js",
+    "index.html": "/kozhamuratoval/my-app/index.html",
+    "main.4515ff85.css.map": "/kozhamuratoval/my-app/static/css/main.4515ff85.css.map",
+    "main.3ab26965.js.map": "/kozhamuratoval/my-app/static/js/main.3ab26965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4515ff85.css",
+    "static/js/main.3ab26965.js"
+  ]
+}
