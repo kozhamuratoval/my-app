@@ -74,7 +74,7 @@ export default function App() {
       {timeLeft !== null && (
         <h2>
           {timeLeft > 0
-            ? `${name || "Дорогой пользователь"}, осталось ${timeLeft} сек`
+            ? `${name}, осталось ${timeLeft} сек`
             : `⏰ Время вышло, ${name || "друг"}!`}
         </h2>
       )}
